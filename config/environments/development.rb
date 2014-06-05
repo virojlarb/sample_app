@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Rails.application.configure do
+=======
+rails.application.configure do
+>>>>>>> ff57225a2aa92f5b71e217a9f20a95044ec12b62
 #SampleApp::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
